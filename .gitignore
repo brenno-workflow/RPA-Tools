@@ -1,0 +1,17 @@
+ignore_teste_1.txt
+
+.venv
+
+logs/
+
+[rpa] control
+
+[rpa] control/
+
+[rpa] control/**
+
+[rpa] control/** */
+
+__pycache__
+
+__pycache__/

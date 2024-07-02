@@ -1,0 +1,12 @@
+{
+  "head": {
+    "head_sucesso": "[SUCESSO] - SID Cliente Anexos",
+    "head_falha": "[FALHA] - SID Cliente Anexos",
+    "head_erro": "[ERRO] - SID Cliente Anexos"
+  },
+  "body": {
+    "msg_sucesso": "Olá, aqui é o Leonardo Vinci, BOT de automação da Cataguá. \nEste é um e-mail de notificação sobre o sucesso ao anexar documentos no SID. \nSegue em anexo, os prints da tela com os arquivos anexados. \nGrato pela atenção.",
+    "msg_falha": "Olá, aqui é o Leonardo Vinci, BOT de automação da Cataguá. \nEste é um e-mail de notificação sobre algumas falhas que ocorreram no processo para anexar documentos no SID. \nSegue em anexo, os prints da tela onde ocorreu o impedimento. \nGrato pela atenção.",
+    "msg_erro": "Olá, aqui é o Leonardo Vinci, BOT de automação da Cataguá. \nHouve um erro no processo para anexar documentos no SID. \nSegue em anexo, o print da tela onde ocorreu o erro. \nGrato pela atenção."
+  }
+}

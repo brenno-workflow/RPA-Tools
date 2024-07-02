@@ -1,0 +1,14 @@
+{
+    "head": {
+      "head_sucesso": "[SUCESSO] - Ecossistema NF",
+      "head_falha": "[FALHA] - Ecossistema NF",
+      "head_erro": "[ERRO] - Ecossistema NF"
+    },
+    "body": {
+      "msg_sucesso": "Olá, aqui é o Leonardo Vinci, BOT de automação da Cataguá. \nEste é um e-mail de notificação sobre o sucesso ao realizar o processo Ecossistema NF. \nSegue em anexo, o txt de chaves canceladas/autorizadas. \nGrato pela atenção.",
+      "msg_falha": "Olá, aqui é o Leonardo Vinci, BOT de automação da Cataguá. \nEste é um e-mail de notificação sobre algumas falhas que ocorreram no processo Ecossistema NF. \nSegue em anexo, os prints da tela onde ocorreu o impedimento. \nGrato pela atenção.",
+      "msg_erro": "Olá, aqui é o Leonardo Vinci, BOT de automação da Cataguá. \nHouve um erro no processo Ecossistema NF. \nSegue em anexo, o print da tela onde ocorreu o erro. \nGrato pela atenção."
+
+    }
+  }
+  
